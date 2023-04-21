@@ -1,2 +1,2 @@
-este es un commit de prueba del prepcourse henry modulo 2
+modulo 2 de henry
 pablo aguirre
